@@ -44,7 +44,7 @@ This will open the PDM/examples/PDMSerialPlotter folder. You will find the sourc
 
 The same technique can be used to find the location of any library you have installed.
 
-Be aware that the libraries bundled with hardware cores are only accessible when a board of that core is selected. Each hardware core comes bundles with it's own architecture-specific version of the standard libraries like SPI and Wire. So you will have multiple versions of these libraries installed on your computer and the one that will be accessed depends on the Tools > Board menu selection at the time.
+Be aware that the libraries bundled with hardware cores are only accessible when a board of that core is selected. Each hardware core comes bundles with it's own architecture-specific version of the standard libraries like SPI and Wire. So you will have multiple versions of these libraries installed on your computer and the one that will be accessed depends on the Tools > Board menu selection at the time. Be careful!
 
 #### More Audio Experiments
 - Integrating Serial with Processing to perform interesting transforms.
